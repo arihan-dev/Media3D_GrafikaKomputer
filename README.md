@@ -15,4 +15,4 @@
 
 
 
-| - Grafika Komputer |
+| - Media 3D |
